@@ -47,7 +47,7 @@
     "commander": "^4.0.0",
     "fast-json-parse": "^1.0.3",
     "pumpify": "^2.0.1",
-    "snyk": "^1.240.2",
+    "snyk": "^1.247.0",
     "split2": "^3.1.1",
     "stream": "0.0.2",
     "through2": "^3.0.1"
